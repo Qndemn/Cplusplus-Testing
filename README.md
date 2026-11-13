@@ -1,2 +1,2 @@
-# Cplusplus-Testing
+# Cplusplus-Practice
 "sample text in Russian"
