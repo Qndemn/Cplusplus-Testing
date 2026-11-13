@@ -48,4 +48,6 @@ int main() {
           std::cout << "https://youtu.be/ZKfHt-AVR48?si=sGi6ktVpfBFMdHjs";
           break;
     }
+
+    std::cout << "\n";
 }
